@@ -1,3 +1,16 @@
+# Elegantless Theme
+
+**The purpose of this theme is to remove the profile picture from the `elegant` jsonresume theme**.
+
+This theme is a fork of the jsonresume elegant theme: [jsonresume-theme-elegant](http://themes.jsonresume.org/theme/elegant)
+
+This theme is identical to the original short of removing the rendering of the profile image for applications where profile pictures are prohibited.
+I created this fork because I genuinely like the `elegant` theme, but most of my applications do not allow profile pictures.
+
+The original README documentation is below:
+
+---
+
 # Elegant Theme [![npm version](https://badge.fury.io/js/jsonresume-theme-elegant.svg)](http://badge.fury.io/js/jsonresume-theme-elegant)
 
 Responsive theme for [JsonResume](https://jsonresume.org/) inspired by card layouts.
